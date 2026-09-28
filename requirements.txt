@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pyjwt[crypto]
+pytest
+httpx2
